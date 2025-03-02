@@ -14,10 +14,6 @@ Proyek ini merupakan bagian dari praktikum AI Workflow yang mencakup:
 1. Unduh file yang digoogle colabnya
 2. Upload file notebook dan jalankan secara keseluruhan
 
-![image](https://github.com/user-attachments/assets/9eb2bb1e-ad7f-44e9-a29a-0fc4604d65b7)
-![image](https://github.com/user-attachments/assets/f8a8b958-271f-405c-97a8-5aa2157d6a07)
-![image](https://github.com/user-attachments/assets/e9b3cbc5-6c60-4e48-b587-b3d3bff58032)
-![image](https://github.com/user-attachments/assets/744843fe-7bb6-4c48-b893-f552b905c7cb)
 
 
 
